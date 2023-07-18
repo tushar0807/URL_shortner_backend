@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl" : "https://www.flipkart.com/asus-rog-delta-s-wired-gaming-headset/p/itma33112580ec65?pid=ACCG5DJZKG9JFHTD&lid=LSTACCG5DJZKG9JFHTDZCXJAA&marketplace=FLIPKART&fm=productRecommendation%2FcrossSelling&iid=R%3Ac%3Bp%3AMOBG6Y6HK96CD3HR%3Bl%3ALSTMOBG6Y6HK96CD3HRFGFRWR%3Bpt%3App%3Buid%3A54e2f6c7-f882-11ec-be32-95a869c46b0c%3B.ACCG5DJZKG9JFHTD&ppt=pp&ppn=pp&ssid=83839tsg155363uo1656359834385&otracker=pp_reco_Bought%2BTogether_39_35.productCard.PMU_TAB_ASUS%2BROG%2BDelta%2BS%2BWired%2BGaming%2BHeadset_ACCG5DJZKG9JFHTD_productRecommendation%2FcrossSelling_0&otracker1=pp_reco_PINNED_productRecommendation%2FcrossSelling_Bought%2BTogether_GRID_productCard_cc_39_NA_view-all&cid=ACCG5DJZKG9JFHTD"   
+}
